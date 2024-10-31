@@ -56,10 +56,7 @@ products:
         supported versions: [42.7.3.2]
       - name: Debian 12
         arch: arm64
-        supported versions: [42.7.3.2]
-      - name: Ubuntu 20.04
-        arch: x86_64
-        supported versions: [42.7.3.2]
+        supported versions: [42.7.3.1]
       - name: Ubuntu 22.04
         arch: x86_64
         supported versions: [42.7.3.2]
